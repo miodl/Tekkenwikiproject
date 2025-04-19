@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication4.Site1" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        gradient-wrapper {
+            display: flex;
+            height: 100vh;
+            background-image: linear-gradient(to bottom right, #212121, #301F46);
+        }
+        
+        .sidebar {
+            width: 91px;
+            color: white;
+            height: 100vh;
+            float: left;
+            border: 1px solid #bb86fc;
+            padding: 20px;
+            box-sizing: border-box;
+            background: transparent;
+        }
+
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .content {
+            margin-left: 100px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="sidebar">
+            <a href="Home.aspx">Home</a>
+        </div>
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+        </div>
+    </form>
+</body>
+</html>
