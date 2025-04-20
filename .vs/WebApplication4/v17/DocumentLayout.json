@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\CS projects\\websites\\WebApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|e:\\cs projects\\websites\\webapplication4\\webapplication4\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|e:\\cs projects\\websites\\webapplication4\\webapplication4\\king.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\king.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|e:\\cs projects\\websites\\webapplication4\\webapplication4\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|E:\\CS projects\\websites\\WebApplication4\\webapplication4\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|e:\\cs projects\\websites\\webapplication4\\webapplication4\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B434E63E-A2E4-4475-A0A1-2F8D0821D208}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Home.aspx",
               "DocumentMoniker": "E:\\CS projects\\websites\\WebApplication4\\WebApplication4\\Home.aspx",
               "RelativeDocumentMoniker": "WebApplication4\\Home.aspx",
@@ -32,6 +36,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-04-19T17:37:01.795Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "King.aspx",
+              "DocumentMoniker": "E:\\CS projects\\websites\\WebApplication4\\WebApplication4\\King.aspx",
+              "RelativeDocumentMoniker": "WebApplication4\\King.aspx",
+              "ToolTip": "E:\\CS projects\\websites\\WebApplication4\\WebApplication4\\King.aspx",
+              "RelativeToolTip": "WebApplication4\\King.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-20T14:01:24.338Z",
               "EditorCaption": ""
             },
             {
